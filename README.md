@@ -1,11 +1,68 @@
-# WARPERS
+# Warpers — Hackathon Project
 
-Warpers was the winner project of the #49 BootCamp Hackathon, made from scratch and in 24h.
-The name was inspired on the song "Rocky Horror Picture Show - Time Warp", given to us as our main theme.
+**Warpers** is a web application created during the **Bootcamp #49 Hackathon**, built from scratch in **24 hours**.
 
-Warpers solve a real life problem. Imagine that you want to subscribe Netflix but it's to expensive for you alone. And you tried to join with friends and family but you know how complicated these things can be!
-Well, we created the perfect solution for you. Warpers is a web-app that helps registered people manage theirs subscriptions. Using these app you don't have to worried about not having enough friends to subscribe a more economic package. We do all of that for you. Just join us and warp you time by doing what you love to do!
+The project was developed as a team challenge and was awarded as the **winning project** of the hackathon.
 
-The main technologies user in these project were: Java, JavaScript, HTML, CSS, Bootstrap, Heroku, Spring, Hibernate, Maven, Rest API, Persistence.
+## Concept
 
-Other Creators: Adriana Alves; Nelson Santos; Rafael Moreira; Rui Lopes;
+Warpers was designed to solve a real-life problem: managing shared subscription plans.
+
+The idea behind the project was to help users organize and manage subscriptions with other people more easily, making it simpler to access more affordable shared plans.
+
+---
+
+## Features
+
+- User registration and subscription management concept
+- Shared subscription organization
+- Web interface for interacting with subscription data
+- Team-built solution delivered under hackathon constraints
+
+---
+
+## Tech Stack
+
+- Java
+- Spring
+- Hibernate
+- Maven
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+- REST API
+- Heroku
+
+---
+
+## Context
+
+This repository represents an **early milestone** in my software development journey and one of my first experiences building a product in a collaborative, time-constrained environment.
+
+It was especially valuable for practicing:
+
+- teamwork under pressure
+- product thinking
+- backend and frontend integration
+- fast prototyping
+- delivering a functional proof of concept within 24 hours
+
+---
+
+## Team
+
+Built together with:
+
+- Adriana Alves
+- Nelson Santos
+- Rafael Moreira
+- Rui Lopes
+
+---
+
+## Notes
+
+This repository is kept public as part of my learning history and early development portfolio.
+
+It reflects a hackathon project built during the final stage of my bootcamp experience.
